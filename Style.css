@@ -1,0 +1,12 @@
+<style>
+body {background-color: white;}
+
+p {font-size: 12px; font-family: cursive;}
+
+<p This text is red {color: red;} </p>
+<p This text is blue {color: blue;} </p>
+<p This text is green {color: green;} </p>
+
+</style>
+
+h1 {text-align: center;}
